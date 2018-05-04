@@ -5,6 +5,30 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
+      <change beforePath="$PROJECT_DIR$/img/about/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/about/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/about/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/about/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/header-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logos/creative-market.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logos/designmodo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logos/envato.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logos/themeforest.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/01-full.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/01-thumbnail.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/02-full.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/02-thumbnail.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/03-full.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/03-thumbnail.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/04-full.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/04-thumbnail.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/05-full.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/05-thumbnail.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/06-full.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/06-thumbnail.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="127">
-              <caret line="107" column="27" lean-forward="true" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+              <caret line="107" column="27" lean-forward="false" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -56,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="11237">
-              <caret line="661" column="1" lean-forward="true" selection-start-line="661" selection-start-column="1" selection-end-line="661" selection-end-column="1" />
+              <caret line="661" column="1" lean-forward="false" selection-start-line="661" selection-start-column="1" selection-end-line="661" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -224,14 +248,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20230263" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20230263" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -316,7 +339,7 @@
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11237">
-          <caret line="661" column="1" lean-forward="true" selection-start-line="661" selection-start-column="1" selection-end-line="661" selection-end-column="1" />
+          <caret line="661" column="1" lean-forward="false" selection-start-line="661" selection-start-column="1" selection-end-line="661" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -324,7 +347,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="107" column="27" lean-forward="true" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+          <caret line="107" column="27" lean-forward="false" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
